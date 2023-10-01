@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saurabh214p
 - 👀 I’m interested in competetive programming
 - 🌱 I’m currently learning c++,c
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me sp666543@gmail.com
 
 <!---
