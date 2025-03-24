@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabh214p
 - 👀 I’m interested in competetive programming
-- 🌱 I’m currently learning c++,c
+- 🌱 I’m currently learning c++,c,web development
 - 📫 Reach me sp666543@gmail.com
 - [![An image of @saurabh214p's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurabh214p)](https://holopin.io/@saurabh214p)
 
