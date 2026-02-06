@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saurabh214p
+- 👋 Hi, I’m Saurabh Pandey
 - 👀 I’m interested in competetive programming
 - 🌱 I’m currently learning c++,c,web development
 - 📫 Reach me sp666543@gmail.com
